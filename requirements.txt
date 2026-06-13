@@ -1,0 +1,3 @@
+python-telegram-bot==21.6
+anthropic>=0.34.0
+yt-dlp>=2024.8.6
